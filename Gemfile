@@ -45,3 +45,4 @@ end
 
 gem 'rails_12factor', group: :production
 gem 'puma'
+gem 'redcarpet', '~> 3.1.2'
